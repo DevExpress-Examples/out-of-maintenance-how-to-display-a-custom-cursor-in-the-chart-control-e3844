@@ -5,6 +5,9 @@
 * [MainPage.xaml.cs](./CS/SilverlightApplication1/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/SilverlightApplication1/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to display a custom cursor in the chart control
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3844)**
+<!-- run online end -->
 
 
 <p>This example shows how to display a custom cursor when the mouse pointer is hovering over the chart control. </p><br />
